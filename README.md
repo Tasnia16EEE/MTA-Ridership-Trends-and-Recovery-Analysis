@@ -1,7 +1,5 @@
 # MTA-Ridership-Trends-and-Recovery-Analysis - Support Future Modeling of Congestion Pricing Impacts
 
-# MTA Ridership Data Analysis (2020–2025)
-
 This project analyzes the ridership trends of different modes of public transportation operated by the **Metropolitan Transportation Authority (MTA)** in New York City between **2020 and 2025**, focusing on the pandemic's impact and post-pandemic recovery.
 
 ## Project Goal

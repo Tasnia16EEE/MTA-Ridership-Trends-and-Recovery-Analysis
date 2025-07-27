@@ -77,14 +77,14 @@ These findings provide critical data to evaluate:
 ├── README.md # This file
 
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
 - Data sourced from the [MTA Open Data Portal](https://data.ny.gov/) and official MTA Transportation Reports.
 - Inspired by current policy initiatives such as congestion pricing and post-pandemic urban mobility trends in NYC.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Author:** Tasnia Sultana  
 **Email:** [sultanatasniaeee92@gmail.com]  

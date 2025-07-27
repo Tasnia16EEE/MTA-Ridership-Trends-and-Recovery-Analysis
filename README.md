@@ -71,6 +71,11 @@ These findings provide critical data to evaluate:
 
 ---
 
+## Repository Structure
+
+├── mta_dataanalysis.ipynb # Jupyter notebook with full EDA & visualization
+├── README.md # This file
+
 
 
 
